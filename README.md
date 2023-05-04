@@ -11,10 +11,19 @@ sort of angle.
 To make this game more interesting we introduced four different modes. The 
 difficulty level of the game increases as we move to higher modes. The different 
 modes are such as: 
-➢ Normal mode
-➢ Inverse mode
-➢ Slomo mode
-➢ God mode
+➢ Normal mode: In this mode, the movement of the maze will be in the direction of the joystick 
+moved.
+
+➢ Inverse mode: The movement of the maze will be in the direction opposite to that of the direction 
+of the joystick. There is a 180-degree phase away from the expected
+
+➢ Slomo mode: This mode is bit interesting. In this mode there will be a delay of 2 seconds in the 
+movement of maze to that of joystick movement. This was made by introducing a 
+delay function in the code.
+
+➢ God mode: This is an exciting mode. For this mode we installed proximity sensors into the 
+circuit. The motion of maze can be controlled by hand gestures. Two sensors were 
+used, one helps in to and fro motion and other for sideways movement.
 
 # COMPONENTS
 • Arduino UNO
@@ -32,11 +41,3 @@ modes are such as:
 • Bread Board
 
 • LCD
-
-Team Members:
-1) Pranav Kandukuru- B210612EC
-2) Pothuguntla Tejaswini- B210726EC
-3) Mutyala Veera Abhi Nanda- B210708EC
-4) Mariserla Ajay Kumar Naidu- B210742EC
-5) Nethala Vijay Praneeth- B210658EC
-6) Nagalapuram Yoshith Sai- B211291EC

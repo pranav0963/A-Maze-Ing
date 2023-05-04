@@ -1,13 +1,5 @@
 # A-Maze-Ing
-Team Members:
-1) Pranav Kandukuru- B210612EC
-2) Pothuguntla Tejaswini- B210726EC
-3) Mutyala Veera Abhi Nanda- B210708EC
-4) Mariserla Ajay Kumar Naidu- B210742EC
-5) Nethala Vijay Praneeth- B210658EC
-6) Nagalapuram Yoshith Sai- B211291EC
 
-# INTRODUCTION
 A-MAZE-ING, as the name itself suggests, is an amazing maze game. A-MAZEING is an amazing E-Toy (Electronic toy) to everyone, that gives a thrill and kind 
 of joy in solving it. We know that many people are interested in solving mazes that 
 are seen in magazines. This toy best suits them. This is a 3d maze game where the 
@@ -40,3 +32,11 @@ modes are such as:
 • Bread Board
 
 • LCD
+
+Team Members:
+1) Pranav Kandukuru- B210612EC
+2) Pothuguntla Tejaswini- B210726EC
+3) Mutyala Veera Abhi Nanda- B210708EC
+4) Mariserla Ajay Kumar Naidu- B210742EC
+5) Nethala Vijay Praneeth- B210658EC
+6) Nagalapuram Yoshith Sai- B211291EC

@@ -10,7 +10,8 @@ through a Maze. This maze is a platform that is tiltable in all directions and a
 sort of angle.
 To make this game more interesting we introduced four different modes. The 
 difficulty level of the game increases as we move to higher modes. The different 
-modes are such as: 
+modes are such as:
+
 ➢ Normal mode: In this mode, the movement of the maze will be in the direction of the joystick 
 moved.
 

@@ -26,10 +26,17 @@ modes are such as:
 
 # COMPONENTS
 • Arduino UNO
+
 • Joystick module
+
 • Cardboard maze
+
 • Small Metallic Ball / Marble
+
 • Micro Servo Motors
+
 • Ultrasound sensors
+
 • Bread Board
+
 • LCD
